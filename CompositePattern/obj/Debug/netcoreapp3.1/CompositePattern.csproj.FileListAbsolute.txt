@@ -1,0 +1,24 @@
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\New folder\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.exe
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\New folder\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.deps.json
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\New folder\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.json
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\New folder\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.dev.json
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\New folder\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.dll
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\New folder\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.pdb
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\New folder\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csprojAssemblyReference.cache
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\New folder\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\New folder\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfo.cs
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\New folder\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.dll
+C:\Users\JR235ZR\OneDrive - EY\Desktop\ISTEA\Clases\Implementaciones\Implementaciones Teóricas\New folder\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.pdb
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.exe
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.deps.json
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.json
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.dev.json
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.dll
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.pdb
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csprojAssemblyReference.cache
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfo.cs
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.dll
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.pdb
+C:\Users\casal\Desktop\CompositePattern\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.genruntimeconfig.cache
